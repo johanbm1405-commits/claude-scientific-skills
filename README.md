@@ -1,6 +1,6 @@
 # Claude Scientific Skills
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE.md)
+[![License:  MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE.md)
 [![Skills](https://img.shields.io/badge/Skills-170-brightgreen.svg)](#whats-included)
 [![Databases](https://img.shields.io/badge/Databases-250%2B-orange.svg)](#whats-included)
 [![Agent Skills](https://img.shields.io/badge/Standard-Agent_Skills-blueviolet.svg)](https://agentskills.io/)
