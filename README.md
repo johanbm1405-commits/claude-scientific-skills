@@ -1,4 +1,4 @@
-# Claude Scientific Skills 
+# Claude Scientific Skills  
 
 [![License:  MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE.md)
 [![Skills](https://img.shields.io/badge/Skills-170-brightgreen.svg)](#whats-included)
